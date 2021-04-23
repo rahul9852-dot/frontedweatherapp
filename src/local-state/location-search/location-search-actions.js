@@ -1,0 +1,3 @@
+export const SET_SEARCH_TERM = 'SET_SEARCH_TERM';
+export const SET_RESULTS = 'SET_RESULTS';
+export const SHOW_RESULTS = 'SET_SHOW_RESULTS';
